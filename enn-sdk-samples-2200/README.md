@@ -1,4 +1,4 @@
-# ENN SDK Samples 2200
+# Exynos 2200 Sample Code
 
 ## Introduction
 |Sample Name|Description|
