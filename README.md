@@ -1,4 +1,4 @@
-# Sample Code Collection
+# Exynos-eco Code Collection
 A comprehensive collection of sample code projects organized as Git subtrees, demonstrating various programming concepts, frameworks, and best practices.
 
 ## 📋 Table of Contents
