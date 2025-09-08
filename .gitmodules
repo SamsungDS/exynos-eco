@@ -1,0 +1,3 @@
+[submodule "enn-sdk-samples"]
+	path = enn-sdk-samples
+	url = https://github.com/exynos-eco/enn-sdk-samples.git
